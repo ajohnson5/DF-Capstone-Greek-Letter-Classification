@@ -25,4 +25,4 @@ Due to time constraints I did not have enough time to do as much testing as I wa
 
 This repository consists of the project notebook and presentation. 
 
-As mentioned above, the dataset used in this project can be located using the paper: 'Thoma, Martin. "The hasyv2 dataset." arXiv preprint arXiv:1701.08380 (2017)'. The file is a tar.bz file and I have left code at the top of the workbook that will extract the files for you. 
+As mentioned above, the dataset used in this project can be located using the paper: 'Thoma, Martin. "The hasyv2 dataset." arXiv preprint arXiv:1701.08380 (2017)'. The file is a tar.bz2 file and I have left code at the top of the workbook that will extract the files for you. 
