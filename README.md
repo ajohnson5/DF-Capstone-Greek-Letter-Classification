@@ -1,9 +1,8 @@
 # DF-Capstone-Handwritten-Greek-Letter-Classification
 
----
 
 ## Handwritten Greek Letter Classification Project
----
+
 This is my final project for Digital Futures Academy, attempting to classify images of handwritten Greek letters using Convolutional Neural Networks.
 
 
