@@ -12,7 +12,7 @@ This is my final project for Digital Futures Academy, attempting to classify ima
 Driven by my love/hate relationship with having to write some of the Greek letters during my Mathematics degree I accepted the task of trying to classify some images of handwritten Greek letters that are most commonly used in Mathematics. In particular, there are 38 such letters, composed of a variety of lower case, upper case and variant (different ways to write the same Greek letter) letters which can be seen in the image to the right. The images of these letters are a subset of a larger dataset known as HASYv2 courtesy of 'Thoma, Martin. "The hasyv2 dataset." arXiv preprint arXiv:1701.08380 (2017)' and is composed of nearly 170,000 32x32 black and white images of 369 different mathematical symbols and characters.
 
 
-# Conclusions:
+## Conclusions:
 To evaluate the performance of the final model that I selected, a convolutional neural network, I used 5-fold cross validation and obtained a mean accuracy result of 0.878. Additionally I also created my own images by handwritting the 38 different Greek letters used in this project and evaluated the final models performance on these images. The model correctly classified 29/38 (76.3%) images correctly.
 
 ---
